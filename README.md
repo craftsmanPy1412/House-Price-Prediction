@@ -18,6 +18,3 @@ A simple machine learning project using Linear Regression to predict house price
 
 ---
 
-# Dataset
-
-The dataset is a basic CSV file (`house_data.csv`)
